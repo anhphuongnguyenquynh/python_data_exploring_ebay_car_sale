@@ -1,4 +1,4 @@
-# Exploring Ebay Car Sale
+# Exploring Ebay Car Sales
 Using Python for Data Analysis
 This is a guided project from Dataquest using Python for data analysis. This project mainly focuses on using Numpy and Pandas.
 Download dataset from: https://www.kaggle.com/orgesleka/used-cars-database/data
