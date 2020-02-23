@@ -5,12 +5,12 @@ This is a guided project from Dataquest using Python for data analysis. This pro
 cool things I have learned
 # convert camelCase to snake_case
 def change_case(text):
-    res = [text[0].lower()]
+    res = text(0).lower()
     for c in text[1:]:
         if c in ('ABCDEFGHIJKLMNOPQRSTUVWXYZ'):
             res.append('_')
             res.append(c.lower())
         else:
             res.append(c)
-    return ''.join(res)
+     return ''.join(res)
     
